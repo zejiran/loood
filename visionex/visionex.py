@@ -1,9 +1,10 @@
 import os
 from google.cloud import vision
 import credentials as cred
-image_uri = 'gs://loodvisionapi/índice.jpg'
+
 cred.explicit()
 
+image_uri = 'gs://loodvisionapi/índice.jpg'
 client = vision.ImageAnnotatorClient()
 image = vision.types.Image()
 image.source.image_uri = image_uri
