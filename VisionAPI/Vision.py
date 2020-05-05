@@ -1,8 +1,13 @@
 import argparse
 import io
-
+import os
 from google.cloud import vision
 from google.cloud.vision import types
+
+
+APP_ROOT = os.path.dirname(os.path.abspath(__file__))
+os.environ['GOOGLE_APPLICATION_CREDENTIALS'] = os.path.join(APP_ROOT, 'key.json')
+
 
 def annotate(path):
     """Returns web annotations given the path to an image."""
@@ -27,6 +32,7 @@ def report(annotations):
 
     if annotations.web_entities:
         for entity in annotations.web_entities:
+            print('Description: {}'.format(entity.description))
             print('Description: {}'.format(entity.description), file=open("output.txt", "a"))
 
 if __name__ == '__main__':
