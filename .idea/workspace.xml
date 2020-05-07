@@ -1,0 +1,365 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f84f2e29-a935-4a56-93a1-2b3ef66dacdf" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.firebaserc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/database.rules.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/firebase.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/firestore.indexes.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/firestore.rules" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/functions/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/functions/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/functions/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/functions/src/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/functions/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/functions/tslint.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/storage.rules" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Procfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-end/Results/Source/Magnific-Popup-master.zip" beforeDir="false" afterPath="$PROJECT_DIR$/public/Results/Source/Magnific-Popup-master.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-end/Results/Source/SlickNav-master.zip" beforeDir="false" afterPath="$PROJECT_DIR$/public/Results/Source/SlickNav-master.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-end/Results/Source/bootstrap-4.3.1-dist.zip" beforeDir="false" afterPath="$PROJECT_DIR$/public/Results/Source/bootstrap-4.3.1-dist.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-end/Results/Source/font-awesome-4.7.0.zip" beforeDir="false" afterPath="$PROJECT_DIR$/public/Results/Source/font-awesome-4.7.0.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-end/Results/Source/photo credits.txt" beforeDir="false" afterPath="$PROJECT_DIR$/public/Results/Source/photo credits.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-end/Results/css/bootstrap.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/Results/css/bootstrap.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-end/Results/css/font-awesome.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/Results/css/font-awesome.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-end/Results/css/magnific-popup.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/Results/css/magnific-popup.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-end/Results/css/slicknav.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/Results/css/slicknav.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-end/Results/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/Results/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-end/Results/icon-fonts/fontawesome-webfont.eot" beforeDir="false" afterPath="$PROJECT_DIR$/public/Results/icon-fonts/fontawesome-webfont.eot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-end/Results/icon-fonts/fontawesome-webfont.svg" beforeDir="false" afterPath="$PROJECT_DIR$/public/Results/icon-fonts/fontawesome-webfont.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-end/Results/icon-fonts/fontawesome-webfont.woff" beforeDir="false" afterPath="$PROJECT_DIR$/public/Results/icon-fonts/fontawesome-webfont.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-end/Results/icon-fonts/fontawesome-webfont.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/public/Results/icon-fonts/fontawesome-webfont.woff2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-end/Results/img/about/1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/Results/img/about/1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-end/Results/img/about/2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/Results/img/about/2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-end/Results/img/about/3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/Results/img/about/3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-end/Results/img/about/4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/Results/img/about/4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-end/Results/img/agents/1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/Results/img/agents/1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-end/Results/img/agents/2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/Results/img/agents/2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-end/Results/img/agents/3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/Results/img/agents/3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-end/Results/img/blog/1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/Results/img/blog/1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-end/Results/img/blog/2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/Results/img/blog/2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-end/Results/img/blog/3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/Results/img/blog/3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-end/Results/img/blog/4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/Results/img/blog/4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-end/Results/img/blog/5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/Results/img/blog/5.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-end/Results/img/blog/6.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/Results/img/blog/6.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-end/Results/img/blog/big-1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/Results/img/blog/big-1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-end/Results/img/blog/big-2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/Results/img/blog/big-2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-end/Results/img/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/public/Results/img/favicon.ico" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-end/Results/img/footer-logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/Results/img/footer-logo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-end/Results/img/hero-bg.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/Results/img/hero-bg.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-end/Results/img/hero_1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/Results/img/hero_1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-end/Results/img/logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/Results/img/logo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-end/Results/img/logo2.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/Results/img/logo2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-end/Results/img/page-top-bg.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/Results/img/page-top-bg.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-end/Results/img/property-search/1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/Results/img/property-search/1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-end/Results/img/property-search/2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/Results/img/property-search/2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-end/Results/img/property-search/3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/Results/img/property-search/3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-end/Results/img/property-search/4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/Results/img/property-search/4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-end/Results/img/property/1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/Results/img/property/1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-end/Results/img/property/2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/Results/img/property/2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-end/Results/img/property/3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/Results/img/property/3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-end/Results/img/property/big.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/Results/img/property/big.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-end/Results/img/sell-bg.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/Results/img/sell-bg.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-end/Results/img/video-img.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/Results/img/video-img.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-end/Results/js/bootstrap.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/Results/js/bootstrap.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-end/Results/js/jquery-3.2.1.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/Results/js/jquery-3.2.1.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-end/Results/js/jquery.magnific-popup.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/Results/js/jquery.magnific-popup.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-end/Results/js/jquery.slicknav.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/Results/js/jquery.slicknav.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-end/Results/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/Results/js/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-end/Results/readme.txt" beforeDir="false" afterPath="$PROJECT_DIR$/public/Results/readme.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-end/Results/sass/ready.scss" beforeDir="false" afterPath="$PROJECT_DIR$/public/Results/sass/ready.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-end/Results/sass/style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/public/Results/sass/style.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-end/Results/search-result.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/Results/search-result.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-end/classifier.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/classifier.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-end/css/animate.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/css/animate.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-end/css/aos.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/css/aos.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-end/css/bootstrap-grid.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/css/bootstrap-grid.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-end/css/bootstrap-reboot.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/css/bootstrap-reboot.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-end/css/bootstrap.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/css/bootstrap.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-end/css/bootstrap.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/public/css/bootstrap.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-end/css/magnific-popup.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/css/magnific-popup.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-end/css/owl.carousel.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/css/owl.carousel.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-end/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-end/css/style.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/public/css/style.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-end/fonts/flaticon/backup.txt" beforeDir="false" afterPath="$PROJECT_DIR$/public/fonts/flaticon/backup.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-end/fonts/flaticon/font/Flaticon.eot" beforeDir="false" afterPath="$PROJECT_DIR$/public/fonts/flaticon/font/Flaticon.eot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-end/fonts/flaticon/font/Flaticon.svg" beforeDir="false" afterPath="$PROJECT_DIR$/public/fonts/flaticon/font/Flaticon.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-end/fonts/flaticon/font/Flaticon.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/public/fonts/flaticon/font/Flaticon.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-end/fonts/flaticon/font/Flaticon.woff" beforeDir="false" afterPath="$PROJECT_DIR$/public/fonts/flaticon/font/Flaticon.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-end/fonts/flaticon/font/Flaticon.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/public/fonts/flaticon/font/Flaticon.woff2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-end/fonts/flaticon/font/_flaticon.scss" beforeDir="false" afterPath="$PROJECT_DIR$/public/fonts/flaticon/font/_flaticon.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-end/fonts/flaticon/font/flaticon.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/fonts/flaticon/font/flaticon.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-end/fonts/flaticon/font/flaticon.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/fonts/flaticon/font/flaticon.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-end/fonts/flaticon/license/license.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/fonts/flaticon/license/license.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-end/fonts/fontawesome/css/font-awesome.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/fonts/fontawesome/css/font-awesome.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-end/fonts/fontawesome/fonts/fontawesome-webfont.eot" beforeDir="false" afterPath="$PROJECT_DIR$/public/fonts/fontawesome/fonts/fontawesome-webfont.eot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-end/fonts/fontawesome/fonts/fontawesome-webfont.svg" beforeDir="false" afterPath="$PROJECT_DIR$/public/fonts/fontawesome/fonts/fontawesome-webfont.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-end/fonts/fontawesome/fonts/fontawesome-webfont.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/public/fonts/fontawesome/fonts/fontawesome-webfont.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-end/fonts/fontawesome/fonts/fontawesome-webfont.woff" beforeDir="false" afterPath="$PROJECT_DIR$/public/fonts/fontawesome/fonts/fontawesome-webfont.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-end/fonts/fontawesome/fonts/fontawesome-webfont.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/public/fonts/fontawesome/fonts/fontawesome-webfont.woff2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-end/fonts/ionicons/cheatsheet.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/fonts/ionicons/cheatsheet.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-end/fonts/ionicons/css/ionicons.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/fonts/ionicons/css/ionicons.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-end/fonts/ionicons/css/ionicons.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/fonts/ionicons/css/ionicons.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-end/fonts/ionicons/fonts/ionicons.eot" beforeDir="false" afterPath="$PROJECT_DIR$/public/fonts/ionicons/fonts/ionicons.eot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-end/fonts/ionicons/fonts/ionicons.svg" beforeDir="false" afterPath="$PROJECT_DIR$/public/fonts/ionicons/fonts/ionicons.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-end/fonts/ionicons/fonts/ionicons.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/public/fonts/ionicons/fonts/ionicons.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-end/fonts/ionicons/fonts/ionicons.woff" beforeDir="false" afterPath="$PROJECT_DIR$/public/fonts/ionicons/fonts/ionicons.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-end/img/1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/img/1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-end/img/about_1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/img/about_1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-end/img/about_2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/img/about_2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-end/img/alegria.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/img/alegria.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-end/img/arsepth.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/img/arsepth.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-end/img/black_logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/img/black_logo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-end/img/dishes_1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/img/dishes_1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-end/img/dishes_2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/img/dishes_2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-end/img/dishes_3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/img/dishes_3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-end/img/dishes_4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/img/dishes_4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-end/img/dishes_5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/img/dishes_5.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-end/img/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/public/img/favicon.ico" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-end/img/godoy.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/public/img/godoy.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-end/img/hero_1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/img/hero_1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-end/img/hero_2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/img/hero_2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-end/img/logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/img/logo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-end/img/logo_uniandes.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/public/img/logo_uniandes.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-end/img/person_1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/img/person_1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-end/img/person_2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/img/person_2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-end/img/person_3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/img/person_3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-end/img/romero.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/public/img/romero.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-end/img/signature.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/img/signature.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-end/img/vargas.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/img/vargas.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-end/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-end/js/aos.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/js/aos.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-end/js/bootstrap.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/js/bootstrap.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-end/js/jquery-3.2.1.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/js/jquery-3.2.1.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-end/js/jquery.magnific-popup.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/js/jquery.magnific-popup.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-end/js/jquery.waypoints.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/js/jquery.waypoints.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-end/js/magnific-popup-options.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/js/magnific-popup-options.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-end/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/js/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-end/js/owl.carousel.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/js/owl.carousel.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-end/js/popper.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/js/popper.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-end/prepros-6.config" beforeDir="false" afterPath="$PROJECT_DIR$/public/prepros-6.config" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-end/scss/_alert.scss" beforeDir="false" afterPath="$PROJECT_DIR$/public/scss/_alert.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-end/scss/_badge.scss" beforeDir="false" afterPath="$PROJECT_DIR$/public/scss/_badge.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-end/scss/_breadcrumb.scss" beforeDir="false" afterPath="$PROJECT_DIR$/public/scss/_breadcrumb.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-end/scss/_button-group.scss" beforeDir="false" afterPath="$PROJECT_DIR$/public/scss/_button-group.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-end/scss/_buttons.scss" beforeDir="false" afterPath="$PROJECT_DIR$/public/scss/_buttons.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-end/scss/_card.scss" beforeDir="false" afterPath="$PROJECT_DIR$/public/scss/_card.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-end/scss/_carousel.scss" beforeDir="false" afterPath="$PROJECT_DIR$/public/scss/_carousel.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-end/scss/_close.scss" beforeDir="false" afterPath="$PROJECT_DIR$/public/scss/_close.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-end/scss/_code.scss" beforeDir="false" afterPath="$PROJECT_DIR$/public/scss/_code.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-end/scss/_custom-forms.scss" beforeDir="false" afterPath="$PROJECT_DIR$/public/scss/_custom-forms.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-end/scss/_custom.scss" beforeDir="false" afterPath="$PROJECT_DIR$/public/scss/_custom.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-end/scss/_dropdown.scss" beforeDir="false" afterPath="$PROJECT_DIR$/public/scss/_dropdown.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-end/scss/_forms.scss" beforeDir="false" afterPath="$PROJECT_DIR$/public/scss/_forms.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-end/scss/_functions.scss" beforeDir="false" afterPath="$PROJECT_DIR$/public/scss/_functions.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-end/scss/_grid.scss" beforeDir="false" afterPath="$PROJECT_DIR$/public/scss/_grid.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-end/scss/_images.scss" beforeDir="false" afterPath="$PROJECT_DIR$/public/scss/_images.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-end/scss/_input-group.scss" beforeDir="false" afterPath="$PROJECT_DIR$/public/scss/_input-group.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-end/scss/_jumbotron.scss" beforeDir="false" afterPath="$PROJECT_DIR$/public/scss/_jumbotron.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-end/scss/_list-group.scss" beforeDir="false" afterPath="$PROJECT_DIR$/public/scss/_list-group.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-end/scss/_media.scss" beforeDir="false" afterPath="$PROJECT_DIR$/public/scss/_media.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-end/scss/_mixins.scss" beforeDir="false" afterPath="$PROJECT_DIR$/public/scss/_mixins.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-end/scss/_modal.scss" beforeDir="false" afterPath="$PROJECT_DIR$/public/scss/_modal.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-end/scss/_nav.scss" beforeDir="false" afterPath="$PROJECT_DIR$/public/scss/_nav.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-end/scss/_navbar.scss" beforeDir="false" afterPath="$PROJECT_DIR$/public/scss/_navbar.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-end/scss/_pagination.scss" beforeDir="false" afterPath="$PROJECT_DIR$/public/scss/_pagination.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-end/scss/_popover.scss" beforeDir="false" afterPath="$PROJECT_DIR$/public/scss/_popover.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-end/scss/_print.scss" beforeDir="false" afterPath="$PROJECT_DIR$/public/scss/_print.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-end/scss/_progress.scss" beforeDir="false" afterPath="$PROJECT_DIR$/public/scss/_progress.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-end/scss/_reboot.scss" beforeDir="false" afterPath="$PROJECT_DIR$/public/scss/_reboot.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-end/scss/_root.scss" beforeDir="false" afterPath="$PROJECT_DIR$/public/scss/_root.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-end/scss/_tables.scss" beforeDir="false" afterPath="$PROJECT_DIR$/public/scss/_tables.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-end/scss/_tooltip.scss" beforeDir="false" afterPath="$PROJECT_DIR$/public/scss/_tooltip.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-end/scss/_transitions.scss" beforeDir="false" afterPath="$PROJECT_DIR$/public/scss/_transitions.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-end/scss/_type.scss" beforeDir="false" afterPath="$PROJECT_DIR$/public/scss/_type.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-end/scss/_utilities.scss" beforeDir="false" afterPath="$PROJECT_DIR$/public/scss/_utilities.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-end/scss/_variables.scss" beforeDir="false" afterPath="$PROJECT_DIR$/public/scss/_variables.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-end/scss/bootstrap-grid.scss" beforeDir="false" afterPath="$PROJECT_DIR$/public/scss/bootstrap-grid.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-end/scss/bootstrap-reboot.scss" beforeDir="false" afterPath="$PROJECT_DIR$/public/scss/bootstrap-reboot.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-end/scss/bootstrap.scss" beforeDir="false" afterPath="$PROJECT_DIR$/public/scss/bootstrap.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-end/scss/mixins/_alert.scss" beforeDir="false" afterPath="$PROJECT_DIR$/public/scss/mixins/_alert.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-end/scss/mixins/_background-variant.scss" beforeDir="false" afterPath="$PROJECT_DIR$/public/scss/mixins/_background-variant.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-end/scss/mixins/_badge.scss" beforeDir="false" afterPath="$PROJECT_DIR$/public/scss/mixins/_badge.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-end/scss/mixins/_border-radius.scss" beforeDir="false" afterPath="$PROJECT_DIR$/public/scss/mixins/_border-radius.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-end/scss/mixins/_box-shadow.scss" beforeDir="false" afterPath="$PROJECT_DIR$/public/scss/mixins/_box-shadow.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-end/scss/mixins/_breakpoints.scss" beforeDir="false" afterPath="$PROJECT_DIR$/public/scss/mixins/_breakpoints.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-end/scss/mixins/_buttons.scss" beforeDir="false" afterPath="$PROJECT_DIR$/public/scss/mixins/_buttons.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-end/scss/mixins/_caret.scss" beforeDir="false" afterPath="$PROJECT_DIR$/public/scss/mixins/_caret.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-end/scss/mixins/_clearfix.scss" beforeDir="false" afterPath="$PROJECT_DIR$/public/scss/mixins/_clearfix.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-end/scss/mixins/_float.scss" beforeDir="false" afterPath="$PROJECT_DIR$/public/scss/mixins/_float.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-end/scss/mixins/_forms.scss" beforeDir="false" afterPath="$PROJECT_DIR$/public/scss/mixins/_forms.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-end/scss/mixins/_gradients.scss" beforeDir="false" afterPath="$PROJECT_DIR$/public/scss/mixins/_gradients.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-end/scss/mixins/_grid-framework.scss" beforeDir="false" afterPath="$PROJECT_DIR$/public/scss/mixins/_grid-framework.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-end/scss/mixins/_grid.scss" beforeDir="false" afterPath="$PROJECT_DIR$/public/scss/mixins/_grid.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-end/scss/mixins/_hover.scss" beforeDir="false" afterPath="$PROJECT_DIR$/public/scss/mixins/_hover.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-end/scss/mixins/_image.scss" beforeDir="false" afterPath="$PROJECT_DIR$/public/scss/mixins/_image.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-end/scss/mixins/_list-group.scss" beforeDir="false" afterPath="$PROJECT_DIR$/public/scss/mixins/_list-group.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-end/scss/mixins/_lists.scss" beforeDir="false" afterPath="$PROJECT_DIR$/public/scss/mixins/_lists.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-end/scss/mixins/_nav-divider.scss" beforeDir="false" afterPath="$PROJECT_DIR$/public/scss/mixins/_nav-divider.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-end/scss/mixins/_navbar-align.scss" beforeDir="false" afterPath="$PROJECT_DIR$/public/scss/mixins/_navbar-align.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-end/scss/mixins/_pagination.scss" beforeDir="false" afterPath="$PROJECT_DIR$/public/scss/mixins/_pagination.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-end/scss/mixins/_reset-text.scss" beforeDir="false" afterPath="$PROJECT_DIR$/public/scss/mixins/_reset-text.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-end/scss/mixins/_resize.scss" beforeDir="false" afterPath="$PROJECT_DIR$/public/scss/mixins/_resize.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-end/scss/mixins/_screen-reader.scss" beforeDir="false" afterPath="$PROJECT_DIR$/public/scss/mixins/_screen-reader.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-end/scss/mixins/_size.scss" beforeDir="false" afterPath="$PROJECT_DIR$/public/scss/mixins/_size.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-end/scss/mixins/_table-row.scss" beforeDir="false" afterPath="$PROJECT_DIR$/public/scss/mixins/_table-row.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-end/scss/mixins/_text-emphasis.scss" beforeDir="false" afterPath="$PROJECT_DIR$/public/scss/mixins/_text-emphasis.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-end/scss/mixins/_text-hide.scss" beforeDir="false" afterPath="$PROJECT_DIR$/public/scss/mixins/_text-hide.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-end/scss/mixins/_text-truncate.scss" beforeDir="false" afterPath="$PROJECT_DIR$/public/scss/mixins/_text-truncate.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-end/scss/mixins/_transition.scss" beforeDir="false" afterPath="$PROJECT_DIR$/public/scss/mixins/_transition.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-end/scss/mixins/_visibility.scss" beforeDir="false" afterPath="$PROJECT_DIR$/public/scss/mixins/_visibility.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-end/scss/style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/public/scss/style.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-end/scss/utilities/_align.scss" beforeDir="false" afterPath="$PROJECT_DIR$/public/scss/utilities/_align.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-end/scss/utilities/_background.scss" beforeDir="false" afterPath="$PROJECT_DIR$/public/scss/utilities/_background.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-end/scss/utilities/_borders.scss" beforeDir="false" afterPath="$PROJECT_DIR$/public/scss/utilities/_borders.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-end/scss/utilities/_clearfix.scss" beforeDir="false" afterPath="$PROJECT_DIR$/public/scss/utilities/_clearfix.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-end/scss/utilities/_display.scss" beforeDir="false" afterPath="$PROJECT_DIR$/public/scss/utilities/_display.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-end/scss/utilities/_embed.scss" beforeDir="false" afterPath="$PROJECT_DIR$/public/scss/utilities/_embed.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-end/scss/utilities/_flex.scss" beforeDir="false" afterPath="$PROJECT_DIR$/public/scss/utilities/_flex.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-end/scss/utilities/_float.scss" beforeDir="false" afterPath="$PROJECT_DIR$/public/scss/utilities/_float.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-end/scss/utilities/_position.scss" beforeDir="false" afterPath="$PROJECT_DIR$/public/scss/utilities/_position.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-end/scss/utilities/_screenreaders.scss" beforeDir="false" afterPath="$PROJECT_DIR$/public/scss/utilities/_screenreaders.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-end/scss/utilities/_sizing.scss" beforeDir="false" afterPath="$PROJECT_DIR$/public/scss/utilities/_sizing.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-end/scss/utilities/_spacing.scss" beforeDir="false" afterPath="$PROJECT_DIR$/public/scss/utilities/_spacing.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-end/scss/utilities/_text.scss" beforeDir="false" afterPath="$PROJECT_DIR$/public/scss/utilities/_text.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-end/scss/utilities/_visibility.scss" beforeDir="false" afterPath="$PROJECT_DIR$/public/scss/utilities/_visibility.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-end/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-end/upload.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/upload.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/preinstall.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/script.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1b0FlpLp5kMnOpsRhW9U1Vs5c6u" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/front-end/public" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.spelling" />
+    <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/front-end/public" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/functions" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/front-end/functions" />
+      <recent name="$PROJECT_DIR$/front-end/public" />
+      <recent name="$PROJECT_DIR$/public" />
+    </key>
+  </component>
+  <component name="RunManager" selected="npm.logs">
+    <configuration name="lint" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/functions/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="lint" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="logs" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/functions/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="logs" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.logs" />
+        <item itemvalue="npm.lint" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" BundledDictionaries="0" RuntimeDictionaries="0" Folders="1" Folder0="C:\Users\juans\Desktop\SpellChecker-Dict-Spanish\src\dict" CustomDictionaries="1" CustomDictionary0="C:\Users\juans\Desktop\SpellChecker-Dict-Spanish\src\dict\spanish.dic" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="project-level" UseSingleDictionary="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f84f2e29-a935-4a56-93a1-2b3ef66dacdf" name="Default Changelist" comment="" />
+      <created>1587761258063</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587761258063</updated>
+      <workItem from="1587761261491" duration="636000" />
+      <workItem from="1587851078372" duration="322000" />
+      <workItem from="1588093080986" duration="962000" />
+      <workItem from="1588196733305" duration="35000" />
+      <workItem from="1588690349844" duration="9903000" />
+      <workItem from="1588733675973" duration="94000" />
+      <workItem from="1588848974335" duration="14382000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="444" y="250" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1588849012130">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="444" y="250" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.900@0.0.1440.900" timestamp="1588849012130" />
+    <state width="1419" height="151" key="GridCell.Tab.0.bottom" timestamp="1588877526846">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1419" height="151" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1588877526846" />
+    <state width="1419" height="151" key="GridCell.Tab.0.center" timestamp="1588877526845">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1419" height="151" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1588877526845" />
+    <state width="1419" height="151" key="GridCell.Tab.0.left" timestamp="1588877526845">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1419" height="151" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1588877526845" />
+    <state width="1419" height="151" key="GridCell.Tab.0.right" timestamp="1588877526846">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1419" height="151" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1588877526846" />
+    <state x="100" y="100" width="1240" height="700" key="dock-window-1" timestamp="1588876946899">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="100" y="100" width="1240" height="700" key="dock-window-1/0.0.1440.900@0.0.1440.900" timestamp="1588876946899" />
+    <state x="100" y="100" width="1240" height="700" key="dock-window-2" timestamp="1588876946900">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="100" y="100" width="1240" height="700" key="dock-window-2/0.0.1440.900@0.0.1440.900" timestamp="1588876946900" />
+  </component>
+</project>
