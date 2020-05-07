@@ -25,7 +25,7 @@ app.use(function (req, res, next) {
 });
 
 app.get("/", async (req, resp) => {
-  resp.send(index.html);
+  resp.sendFile('index.html');
 });
 
 /*
