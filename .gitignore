@@ -1,2 +1,6 @@
 .idea
 .DS_Store
+node_modules/
+.idea/
+package-lock.json
+google-credentials-vision.json
