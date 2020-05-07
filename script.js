@@ -1,7 +1,7 @@
 let app = new Vue({
   el: "#app",
   data: {
-    serverUrl: "https://loood.herokuapp.com/",
+    serverUrl: "https://classify-food.herokuapp.com",
     imageFile: null,
     imageUrl: "",
     labels: [],
