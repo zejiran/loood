@@ -1,0 +1,79 @@
+<html>
+  <head>
+
+
+    <title>Food Classifier - Cloud Vision API</title>
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"
+      integrity="sha256-eZrrJcwDc/3uDhsdt61sL2oOBY362qM3lon1gyExkL0=" crossorigin="anonymous" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.4.1/css/bootstrap.min.css"
+      integrity="sha256-L/W5Wfqfa0sdBNIKN9cG6QA5F2qx4qICmU2VgLruv9Y=" crossorigin="anonymous" />
+    <link rel="stylesheet" href="./style.css">
+  </head>
+
+  <body>
+    <!-- 
+      Bootstrap docs: https://getbootstrap.com/docs
+    -->
+    
+    <div class="container" id="app">
+    
+      <div class="row">
+        <div class="col">
+          <h1 class="text-center">
+            Food Classifier
+          </h1>
+          <div class="text-center" hidden>
+            <a href="#" target="_blank">Learn how it works?</a>
+          </div>
+        </div>
+      </div>
+    
+      <div class="row">
+        <div class="col d-flex justify-content-center">
+          <img
+            v-bind:src="displayImageSrc"
+            alt="" class="img-fluid" id="display-img">
+        </div>
+      </div>
+    
+      <div class="row">
+        <div class="col d-flex justify-content-center">
+          <label for="file-upload" class="custom-file-upload">
+            <div class="btn btn-outline-dark">
+              <i class="fa fa-cloud-upload"></i> Upload
+            </div>
+          </label>
+          <input id="file-upload" name="file-upload" v-model="imageFile" v-on:change="fileSelected" type="file" />
+    
+          <span class="m-1">or</span>
+          <div class="form-group">
+            <input id="file-url" v-model="imageUrl" v-on:change="urlPasted" placeholder="paste image url" type="text"
+              class="form-control">
+          </div>
+        </div>
+    
+      </div>
+    
+      <div class="row m-1 mb-3">
+        <div class="col">
+          <div class="text-center">
+            
+            <h4 v-for="l in labels">{{ l.description }} , {{ l.score.toFixed(1) }}</h4>
+
+            <h4 v-if="error">{{ error }}</h4>
+          </div>
+        </div>
+      </div>
+    
+    </div>
+
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/axios/0.19.0/axios.min.js"
+      integrity="sha256-S1J4GVHHDMiirir9qsXWc8ZWw74PHHafpsHp5PXtjTs=" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/vue/2.6.10/vue.min.js"
+      integrity="sha256-chlNFSVx3TdcQ2Xlw7SvnbLAavAQLO0Y/LBiWX04viY=" crossorigin="anonymous"></script>
+    <script src="./script.js"></script>
+
+  </body>
+</html>
