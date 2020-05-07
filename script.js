@@ -1,7 +1,7 @@
 let app = new Vue({
   el: "#app",
   data: {
-    serverUrl: "http://127.0.0.1:3000",
+    serverUrl: "https://loood.herokuapp.com/",
     imageFile: null,
     imageUrl: "",
     labels: [],
