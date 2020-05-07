@@ -1,0 +1,33 @@
+ @import url('https://fonts.googleapis.com/css?family=Lilita+One&display=swap');
+ @import url('https://fonts.googleapis.com/css?family=Acme&display=swap');
+h1, h2, h3 {
+  font-family: 'Lilita One', cursive;
+}
+ body {
+  font-family: 'Acme', cursive;
+    background: #fbc531;
+    color: #34495e;
+ }
+ .row {
+  /* background: #f8f9fa; */
+  margin-top: 20px;
+}
+
+.col {
+  /* border: solid 1px #6c757d; */
+}
+
+#display-img {
+  border-radius: 5%;
+  max-height: 40vh;
+  max-width: 80vw;
+}
+
+
+/*
+file button styling
+source: http://jsfiddle.net/4cwpLvae/
+*/
+input[type="file"] {
+    display: none;
+}
