@@ -1,1 +1,1 @@
-web: node public/food-analyzer/server/index.js
+web: node index.js
