@@ -1,0 +1,1 @@
+web: node public/food-analyzer/server/index.js
