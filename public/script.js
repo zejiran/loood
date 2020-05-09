@@ -103,6 +103,9 @@ let app = new Vue({
     displayLabels: function(response) {
       console.log("Response: ", response.data);
       const data = response.data;
+      const urlVid = "https://www.bing.com/videos/search?q=receta ".concat(data[0])
+      document.getElementById("videosurl").src = urlVid;
+      document.getElementsByTagName("iframe")[0].removeAttribute("hidden"); 
 
       // reset previous ones
       this.error = "";
