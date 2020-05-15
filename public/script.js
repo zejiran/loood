@@ -103,9 +103,7 @@ let app = new Vue({
     displayLabels: function(response) {
       console.log("Response: ", response.data);
       const data = response.data;
-      const urlVid = "https://www.bing.com/videos/search?q=receta ".concat(data[0])
-      document.getElementById("videosurl").src = urlVid;
-      document.getElementsByTagName("iframe")[0].removeAttribute("hidden"); 
+      
 
       // reset previous ones
       this.error = "";
@@ -117,6 +115,10 @@ let app = new Vue({
       } else {
         // TODO set and display labels
         this.labels = data;
+        var MYJSON = JSON.stringify(data[0].description);
+        const urlVid = "https://www.bing.com/videos/search?q=receta ".concat(MYJSON)
+        document.getElementById("videosurl").src = urlVid;
+        document.getElementsByTagName("iframe")[0].removeAttribute("hidden"); 
       }
     }
   }
