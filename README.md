@@ -21,3 +21,9 @@ Gabriela Vargas, Contacto: g.vargasr@uniandes.edu.co
 ## Licencia & Copyright  
 Ver "[LICENSE](https://github.com/zejiran/Loood/blob/master/LICENSE)" para ver información acerca de la licencia.   
 *Copyright (c) 2020 Arsepth*
+
+## Screenshots
+
+<img src="https://i.ibb.co/NNNzBPN/3.png" alt="3" border="0">
+<img src="https://i.ibb.co/CwBPC6p/1.png" alt="1" border="0">
+<img src="https://i.ibb.co/mtkHYWy/2.png" alt="2" border="0">
